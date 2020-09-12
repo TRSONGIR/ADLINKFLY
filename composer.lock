@@ -1,1 +1,1 @@
-composer update
+php composer.phar update
