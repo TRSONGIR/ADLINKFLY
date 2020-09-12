@@ -1,1 +1,5 @@
-php composer.phar update
+{
+    "require": {
+  "ext-mbstring": "*"
+}
+}
