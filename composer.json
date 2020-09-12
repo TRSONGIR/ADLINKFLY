@@ -1,8 +1,5 @@
 {
     "require": {
-        "fabpot/goutte": "^3.2",
-        "guzzlehttp/guzzle": "^6.2",
-        "paquettg/php-html-parser": "^1.7",
-        "ext-mbstring": "*"
-    }
+  "ext-mbstring": "*"
+}
 }
